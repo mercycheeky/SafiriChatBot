@@ -1,0 +1,19 @@
+[
+  {
+    "value": "deposit",
+    "synonyms": [
+      "deposit",
+      "Deposit",
+      "Put"
+    ]
+  },
+  {
+    "value": "Withdraw",
+    "synonyms": [
+      "Withdraw",
+      "withdraw",
+      "remove",
+      "reduce"
+    ]
+  }
+]

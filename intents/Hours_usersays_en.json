@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1acd5453-fb93-4c92-b9c1-b7bccfc79c7a",
+    "data": [
+      {
+        "text": "how late can i come in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72883fa8-f29a-43b1-a984-5109f1d8846a",
+    "data": [
+      {
+        "text": "what are your hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e56698b3-e7e9-47ef-9893-06257f829b00",
+    "data": [
+      {
+        "text": "when do you open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "524b48cc-ae42-42d2-a3e0-aea262f5f293",
+    "data": [
+      {
+        "text": "at what time do you open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "627e16ed-3a6a-4ca1-8c53-25eda05c9266",
+    "data": [
+      {
+        "text": "At what time do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

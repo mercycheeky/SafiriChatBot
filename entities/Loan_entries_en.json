@@ -1,0 +1,27 @@
+[
+  {
+    "value": "borrow",
+    "synonyms": [
+      "borrow",
+      "get"
+    ]
+  },
+  {
+    "value": "check",
+    "synonyms": [
+      "check"
+    ]
+  },
+  {
+    "value": "pay",
+    "synonyms": [
+      "pay"
+    ]
+  },
+  {
+    "value": "grow",
+    "synonyms": [
+      "grow"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "00247f3a-777f-4d06-95e1-bc96942cda2c",
+  "parentId": "a9bb5bcd-6cb3-4573-83e7-a1ceb294a039",
+  "rootParentId": "a9bb5bcd-6cb3-4573-83e7-a1ceb294a039",
+  "name": "Application - custom",
+  "auto": true,
+  "contexts": [
+    "Application-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Application.Application-custom",
+      "affectedContexts": [
+        {
+          "name": "Application-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "976ebefd-6c76-4eec-a9b2-e0c5c1fb8be4",
+          "name": "applicationtype",
+          "required": false,
+          "dataType": "@ApplicationType",
+          "value": "$applicationtype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Application can be made at any KCB Branch"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

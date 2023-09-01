@@ -1,0 +1,90 @@
+[
+  {
+    "id": "d1e98cea-8b73-4ce2-b660-42c5514fd0ed",
+    "data": [
+      {
+        "text": "how do i use vooma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e365f70e-a8b7-4433-9bc1-7cf888359400",
+    "data": [
+      {
+        "text": "how do i ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@vooma_pay",
+        "alias": "vooma_pay",
+        "userDefined": false
+      },
+      {
+        "text": " using vooma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b998f671-eb26-47b8-be20-43fe98f45b45",
+    "data": [
+      {
+        "text": "how do i ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@vooma_pay",
+        "alias": "vooma_pay",
+        "userDefined": false
+      },
+      {
+        "text": " using vooma tills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f89c9fd7-92fb-4f0d-9e4b-d85db1a6a37e",
+    "data": [
+      {
+        "text": "How to ",
+        "userDefined": false
+      },
+      {
+        "text": "pay",
+        "meta": "@vooma_pay",
+        "alias": "vooma_pay",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Vooma pay bills",
+        "meta": "@vooma_pay",
+        "alias": "vooma_pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

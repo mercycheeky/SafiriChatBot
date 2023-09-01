@@ -1,0 +1,67 @@
+[
+  {
+    "id": "785dfc83-6bd0-4db9-9490-d88c35468288",
+    "data": [
+      {
+        "text": "how do i get iBank service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0990d935-a9be-4f2f-ac90-36cb18c13e3e",
+    "data": [
+      {
+        "text": "How do i get a KCB bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d02a58d7-aaae-4973-85b1-8fb03c85bd6f",
+    "data": [
+      {
+        "text": "How do i apply for a KCB bank account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5204990a-ab4e-4f06-a0ce-5080c3562b79",
+    "data": [
+      {
+        "text": "How do i apply for ibank service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2921c091-bc6f-4aa5-8175-a8ba63ff7f2a",
+    "data": [
+      {
+        "text": "How do i apply for internet banking service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

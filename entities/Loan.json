@@ -1,0 +1,9 @@
+{
+  "id": "9e65e1dc-ba49-4a25-a08c-ad824701cf2e",
+  "name": "Loan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

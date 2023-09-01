@@ -1,0 +1,43 @@
+{
+  "id": "986f34f2-c98b-4959-9f61-011a42001f92",
+  "parentId": "492f4060-87f1-4a2f-b547-2680ac13d2fe",
+  "rootParentId": "492f4060-87f1-4a2f-b547-2680ac13d2fe",
+  "name": "Default Fallback Intent - fallback",
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-fallback-followup",
+          "lifespan": 20
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please refer to the link : https://ke.kcbgroup.com/quick-links/faqs/faqscategories"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

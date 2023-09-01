@@ -1,0 +1,50 @@
+{
+  "id": "9742975f-0f72-4b10-a566-652084618f69",
+  "name": "pay_vooma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c7e63d94-d1d9-4de4-b8b5-48787cfc135d",
+          "name": "vooma_pay",
+          "required": false,
+          "dataType": "@vooma_pay",
+          "value": "$vooma_pay",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "From a KCB Bank account using *522#\n\n \n\ni) Dial *522#\n2) Select Payments\n3) Select Pay Bills\n4) Select KCB Account as the source of funds\n5) Select the KCB Account to pay from\n6) Select Enter Pay Bill Number\n7) Enter the Pay Bill Number\n8) Enter Account Number\n9) Enter the Amount\n10) Enter your KCB mobile banking PIN\n11) Confirm the transaction and submit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

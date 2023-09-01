@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21c99119-6d3b-480e-8eb2-b372ab4b4d2e",
+    "data": [
+      {
+        "text": "how can i get KCB bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c3e0781-ce51-4fef-895f-2f84a171e965",
+    "data": [
+      {
+        "text": "how do i apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "iBank",
+        "meta": "@ApplicationType",
+        "alias": "applicationtype",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29cd26f4-ae20-47ec-bd82-315bab5d2930",
+    "data": [
+      {
+        "text": "i want an internet banking account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651035e8-2540-4a45-9af2-46db314696de",
+    "data": [
+      {
+        "text": "how can i get  an ",
+        "userDefined": false
+      },
+      {
+        "text": "ibank",
+        "meta": "@ApplicationType",
+        "alias": "applicationtype",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

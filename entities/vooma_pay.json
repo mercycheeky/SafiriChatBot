@@ -1,0 +1,9 @@
+{
+  "id": "934b7d83-97d8-4de8-84b7-1795bc2db910",
+  "name": "vooma_pay",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

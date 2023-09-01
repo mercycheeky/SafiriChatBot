@@ -1,0 +1,51 @@
+[
+  {
+    "id": "4fa4b94c-b302-41cc-870c-08b8fc88c0f4",
+    "data": [
+      {
+        "text": "how do i grow my loan limit in kcb mpesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df495a4f-1332-4309-a549-e376c3916cf8",
+    "data": [
+      {
+        "text": "how do i increase my loan limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d28f3659-adde-4ff2-806b-831718cc8e3b",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "grow",
+        "meta": "@Loan",
+        "alias": "loan",
+        "userDefined": false
+      },
+      {
+        "text": " my loan limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

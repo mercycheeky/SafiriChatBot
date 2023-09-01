@@ -1,0 +1,35 @@
+{
+  "id": "5c3d3f29-0a90-460a-9d26-12c65ef11a7e",
+  "name": "should I use PesaLink?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PesaLink is real-time, available 24/7 and one can transfer from as low as KES 10 to as high as KES. 999,999. It is also safe since it eliminates use of cash as a mode of payment"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

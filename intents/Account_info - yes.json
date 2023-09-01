@@ -1,0 +1,39 @@
+{
+  "id": "6a21e7ad-4855-47ae-8834-222eef107f31",
+  "parentId": "117babae-62d9-458e-b598-a61f87d525c7",
+  "rootParentId": "117babae-62d9-458e-b598-a61f87d525c7",
+  "name": "Account_info - yes",
+  "auto": true,
+  "contexts": [
+    "Account_info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Account_info.Account_info-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To withdraw to M-PESA\n • Go to the KCB M-PESA menu.\n • Select Withdraw to M-PESA.\n • Enter the amount and commit.\n • Your KCB M-PESA Account will be deducted and your M-PESA Account credited with the amount."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

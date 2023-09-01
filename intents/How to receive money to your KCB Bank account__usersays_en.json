@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bbc56adf-1bea-482e-a790-dfa21c07a419",
+    "data": [
+      {
+        "text": "How to receive money to your KCB Bank account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "694da29c-4351-497f-b530-1a5ac57aaf02",
+    "data": [
+      {
+        "text": "How to receive money to your KCB Bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8e839c-39e4-4875-a68d-52ab2061b009",
+    "data": [
+      {
+        "text": "how can i receive money to my KCB bank account through PESA link?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

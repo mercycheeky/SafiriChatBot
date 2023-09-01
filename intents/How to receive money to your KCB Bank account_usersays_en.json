@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1edf976-27ca-4d0f-baf5-aa5eeff4e741",
+    "data": [
+      {
+        "text": "How do I receive money in my ",
+        "userDefined": false
+      },
+      {
+        "text": "kcb account",
+        "meta": "@ApplicationType",
+        "alias": "applicationtype",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75abc6d2-b0d5-4a16-aecd-3510ca2f4ee7",
+    "data": [
+      {
+        "text": "How to receive money to your KCB Bank account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

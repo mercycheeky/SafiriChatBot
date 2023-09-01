@@ -1,0 +1,51 @@
+[
+  {
+    "id": "8e5dbbc6-f25f-4ff4-ae85-70c4774d9ad3",
+    "data": [
+      {
+        "text": "how can i borrow a kcb mpesa loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b187fdcf-b2aa-418b-90f6-96a7b51451dd",
+    "data": [
+      {
+        "text": "how do i borrow a kcb mpesa loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4115f9c7-72fe-48e0-9cf4-41101c55b9eb",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "borrow",
+        "meta": "@Loan",
+        "alias": "loan",
+        "userDefined": false
+      },
+      {
+        "text": " a KCB M-PESA loan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

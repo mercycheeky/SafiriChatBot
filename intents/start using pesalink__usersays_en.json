@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1d63a3cf-5335-4994-b1c4-6950f4d87fca",
+    "data": [
+      {
+        "text": "how do i start using pesalink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a14a760-2d21-4c07-ab51-2b24b4593297",
+    "data": [
+      {
+        "text": "how do i become a user for pesalink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6e2c7df-346f-4d04-b4a6-a6e4496992b2",
+    "data": [
+      {
+        "text": "How do I register for PesaLink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

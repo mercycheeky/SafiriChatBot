@@ -1,0 +1,79 @@
+{
+  "id": "117babae-62d9-458e-b598-a61f87d525c7",
+  "name": "Account_info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_info-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3b67fcdd-ca3b-48a4-a834-6a44d5a7b9cc",
+          "name": "account",
+          "required": true,
+          "dataType": "@Account",
+          "value": "$account",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "deposit?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "65be8099-d6fe-43c0-b2f2-d7870480c963",
+          "name": "account1",
+          "required": true,
+          "dataType": "@Account",
+          "value": "$account1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "withdraw?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "sure thing. Do you want to withdraw ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

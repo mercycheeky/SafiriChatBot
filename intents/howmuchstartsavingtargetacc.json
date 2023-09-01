@@ -1,0 +1,35 @@
+{
+  "id": "306e5851-dbf4-4036-a28f-a3cc047f8668",
+  "name": "howmuchstartsavingtargetacc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Upon successful opt-in, the minimum amount to begin saving is Kshs.50, thereafter you can save with any amount you desire. Once you have deposited the savings amount into the account, you will receive an SMS acknowledging the amount you have saved and period chosen.\n*** for savings exceeding Kshs. 250,000.00, a customer will be requested to visit any KCB branch to submit further documentation for identification purposes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

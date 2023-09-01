@@ -1,0 +1,54 @@
+[
+  {
+    "id": "fa3315f9-9b4c-40bf-a7e5-0afe456cd1da",
+    "data": [
+      {
+        "text": "could it be possible to withdraw funds before the maturity date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff8a7ed-e294-41a6-a94f-4e8470645734",
+    "data": [
+      {
+        "text": "could it be possible to withdraw funds before the maturity date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c135978-4c5a-49d3-9f9f-1055c6216ff3",
+    "data": [
+      {
+        "text": "is it possible to withdraw funds before maturity date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97858050-786a-4e83-af3e-41684032121b",
+    "data": [
+      {
+        "text": "can i withdraw funds before maturity date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

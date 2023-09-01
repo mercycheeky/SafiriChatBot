@@ -1,0 +1,50 @@
+{
+  "id": "d4514f82-f007-49c0-8743-184b39b6d8f8",
+  "name": "How to receive money to your KCB Bank account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41abc37e-895c-4c41-9a79-02a23af8222a",
+          "name": "applicationtype",
+          "required": false,
+          "dataType": "@ApplicationType",
+          "value": "$applicationtype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The sender should be registered with PesaLink.\nRequest the sender to send money to your KCB Bank account and the money will be deposited real-time once sent."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

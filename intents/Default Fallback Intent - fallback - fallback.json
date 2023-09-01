@@ -1,0 +1,35 @@
+{
+  "id": "2023bd41-adde-4089-925a-db57d1713690",
+  "parentId": "986f34f2-c98b-4959-9f61-011a42001f92",
+  "rootParentId": "492f4060-87f1-4a2f-b547-2680ac13d2fe",
+  "name": "Default Fallback Intent - fallback - fallback",
+  "contexts": [
+    "DefaultFallbackIntent-fallback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback.DefaultFallbackIntent-fallback-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

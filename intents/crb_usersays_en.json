@@ -1,0 +1,41 @@
+[
+  {
+    "id": "77a7bf9f-1f66-4ae0-8f77-f0c6ad135624",
+    "data": [
+      {
+        "text": "still listed in crb. can i still save with kcb m-pesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30869b8c-b7a0-4df5-b0bd-d7c8a23032c7",
+    "data": [
+      {
+        "text": "if i am still listed in the CRB, can i still save with KCB mpesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a00c6e3-851a-4f8e-bdfa-77df22b1189b",
+    "data": [
+      {
+        "text": "Can I save with KCB M-PESA if I am listed on Credit Reference Bureau (CRB)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

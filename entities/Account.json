@@ -1,0 +1,9 @@
+{
+  "id": "fa95d60a-e588-4c9c-9a46-81dabb99f467",
+  "name": "Account",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

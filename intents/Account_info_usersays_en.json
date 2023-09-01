@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5c6e09fd-ad8a-498c-b9d8-6dfc81bfaf58",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "deposit",
+        "meta": "@Account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "withdraw",
+        "meta": "@Account",
+        "alias": "account1",
+        "userDefined": false
+      },
+      {
+        "text": " money into or out of KCB M-PESA Account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

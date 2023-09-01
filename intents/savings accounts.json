@@ -1,0 +1,35 @@
+{
+  "id": "27be5b41-b52a-440f-ab86-7e4da3f07ce5",
+  "name": "savings accounts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are two Savings accounts available on KCB M-PESA KCB M-PESA Fixed savings account - This account allows you to lock a specific amount of cash for a period of up to 12 months. KCB M-PESA Target savings account - This account allows you to set a target and make deposits towards achieving that target for a period of up to 12 months."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

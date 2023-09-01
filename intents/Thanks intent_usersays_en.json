@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e1421a57-b29a-4203-8be1-51c7a639803d",
+    "data": [
+      {
+        "text": "awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05a83969-997b-4f7c-a08f-108988a4e3a5",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2de55387-5d28-4eff-be75-30bd3dcda864",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1d9d5f1a-843f-4d57-b10d-8e37bad2fc0a",
+    "data": [
+      {
+        "text": "Is there a cost for opening Fixed or Target Savings account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "208f49b6-0e22-4780-8451-5fc704df6535",
+    "data": [
+      {
+        "text": "how much would it cost to open a target or savings acount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

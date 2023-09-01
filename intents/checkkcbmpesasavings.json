@@ -1,0 +1,35 @@
+{
+  "id": "af2a1513-1dca-4d01-b884-ac7264fcc23e",
+  "name": "checkkcbmpesasavings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• Go to M-PESA menu\n    • Select Loans and Savings,\n    • Select KCB M-PESA,\n    • Select Fixed Savings account,\n    • Select Fixed Deposit or Target Savings Account"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

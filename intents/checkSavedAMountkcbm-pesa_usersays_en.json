@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1f63a69b-b8ef-4a03-bff0-5ca24e6895ad",
+    "data": [
+      {
+        "text": "how to check my saved amount in kcb mpesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc28ddf9-ed4e-4c58-a07c-5db39a05a12e",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "check",
+        "meta": "@Account",
+        "alias": "account",
+        "userDefined": false
+      },
+      {
+        "text": " my saved amount?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

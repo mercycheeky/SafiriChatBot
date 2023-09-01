@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c7958942-8e19-4a07-8a24-b36c881814a0",
+    "data": [
+      {
+        "text": "interest charge for m-pesa loan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74432801-4412-452b-ad3c-1c7432f742fb",
+    "data": [
+      {
+        "text": "What is the interest rate charged on a KCB M-PESA loan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

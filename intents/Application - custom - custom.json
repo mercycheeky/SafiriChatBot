@@ -1,0 +1,39 @@
+{
+  "id": "ad59dbd4-0184-4d02-8dc4-18a600e9b8b7",
+  "parentId": "00247f3a-777f-4d06-95e1-bc96942cda2c",
+  "rootParentId": "a9bb5bcd-6cb3-4573-83e7-a1ceb294a039",
+  "name": "Application - custom - custom",
+  "auto": true,
+  "contexts": [
+    "Application-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Application.Application-custom.Application-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Be a registered and active Safaricom M-PESA customer"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

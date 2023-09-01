@@ -1,0 +1,39 @@
+{
+  "id": "49f52252-6df1-42a7-b786-c9b0955704f2",
+  "parentId": "618fa851-440b-4bca-9a52-4a67f9e5f65e",
+  "rootParentId": "117babae-62d9-458e-b598-a61f87d525c7",
+  "name": "Account_info - no - yes",
+  "auto": true,
+  "contexts": [
+    "Account_info-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Account_info.Account_info-no.Account_info-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To deposit from M-PESA\n • Go to the KCB M-PESA menu.\n • Select Deposit from M-PESA.\n • Enter the amount and commit.\n • Your M-PESA will be deducted and your KCB M-PESA Account credited with the amount."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

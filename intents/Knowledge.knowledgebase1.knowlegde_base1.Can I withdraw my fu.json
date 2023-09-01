@@ -1,0 +1,35 @@
+{
+  "id": "aacf322c-795d-431e-8145-87f6acf4a179",
+  "name": "Knowledge.knowledgebase1.knowlegde_base1.Can I withdraw my fu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, you can access your funds before the end of the period. Target savings can be unlocked anytime except; Opening date Any day when a Top-up is done"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

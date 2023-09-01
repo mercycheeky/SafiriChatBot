@@ -1,0 +1,35 @@
+{
+  "id": "711d3414-7cb3-4b43-b5e9-af45c865741b",
+  "name": "opentargetsavingsacc.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Go to M-PESA menu\n    • Select Loans and Savings\n    • Select KCB M-PESA\n    • Select Fixed Savings Account\n    • Select Target Savings Account\n    • Select Open Account\n    • Select source of funds;\n• M-PESA\n• KCB M-PESA\n    • Enter Target amount you intend to save for the period (minimum amount is Kshs.1,000)\n    • Enter period (1 up to 12 months)\n    • Enter initial deposit amount (not less than Kshs.50)\n    • Enter M-PESA PIN and complete the transaction"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

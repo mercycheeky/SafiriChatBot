@@ -1,0 +1,39 @@
+{
+  "id": "0a07431f-5d3f-4750-bef0-b34870535027",
+  "parentId": "117babae-62d9-458e-b598-a61f87d525c7",
+  "rootParentId": "117babae-62d9-458e-b598-a61f87d525c7",
+  "name": "Account_info - custom",
+  "auto": true,
+  "contexts": [
+    "Account_info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Account_info.Account_info-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• Access the KCB M-PESA menu\n • Select My Account\n • You can check your account balance or request for a Mini Statement."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

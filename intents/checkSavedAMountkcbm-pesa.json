@@ -1,0 +1,50 @@
+{
+  "id": "4da791f9-992f-4e8d-80cd-dfdbec96d3d4",
+  "name": "checkSavedAMountkcbm-pesa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d2cee64b-0196-4dff-a0f1-a6b4130a47f2",
+          "name": "account",
+          "required": false,
+          "dataType": "@Account",
+          "value": "$account",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To track progress of your savings;\n    • Go to M-PESA Menu\n    • Select Loans and Savings\n    • Select KCB M-PESA\n    • Select My Account\n    • Select Check Balance\n    • Enter M-PESA PIN and submit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

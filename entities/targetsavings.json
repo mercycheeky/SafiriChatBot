@@ -1,0 +1,9 @@
+{
+  "id": "1c928958-cd9a-41f9-b8f6-9341f159ea8f",
+  "name": "targetsavings",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

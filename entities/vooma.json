@@ -1,0 +1,9 @@
+{
+  "id": "2149cf51-0958-4bbe-89be-59d86d6ae7be",
+  "name": "vooma",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

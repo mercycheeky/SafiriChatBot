@@ -1,0 +1,50 @@
+{
+  "id": "e2d3bbfe-f738-4220-b1e3-4e687e44a5e3",
+  "name": "pay loan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dea944b1-4e7a-4023-abef-3cf63fb80a1e",
+          "name": "loan",
+          "required": false,
+          "dataType": "@Loan",
+          "value": "$loan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "a). Using Safaricom Toolkit Go to M-PESA menu Select Loans and Savings Select KCB M-PESA Select Pay Loan Select to pay from M-PESA or from your KCB M-PESA Account Enter amount \u0026 follow prompts to complete. b). Using M-PESA Paybill 522559 Go to M-PESA menu Select Lipa na M-PESA Select Paybill \u0026 Enter Business \u0026 enter 522559 as Business Number Select Account no. \u0026 enter “Borrower\u0027s ID number e.g. 12345678\u0027\u0027 Enter amount \u0026 follow prompts to complete."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

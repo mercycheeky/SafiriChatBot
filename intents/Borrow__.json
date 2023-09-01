@@ -1,0 +1,50 @@
+{
+  "id": "950f12ae-bd28-4cb8-b304-669bd1d0a4f8",
+  "name": "Borrow??",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c03f1e7-2ea2-45fc-a6c6-fc6d88aef062",
+          "name": "loan",
+          "required": false,
+          "dataType": "@Loan",
+          "value": "$loan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Go to M-PESA menu Select Loans and Savings Select KCB M-PESA Select Request Loan Enter Amount \u0026 follow prompts to complete"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

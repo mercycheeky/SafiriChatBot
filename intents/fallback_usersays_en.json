@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a2e8a1df-9f08-49f9-911c-b51ad3aef340",
+    "data": [
+      {
+        "text": "anything gilberish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f73a078-054d-438e-b5f3-9e1a273dbcf7",
+    "data": [
+      {
+        "text": "what is kcb mpesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c84db9e0-e100-4c77-a0f5-145ba7ae0b4c",
+    "data": [
+      {
+        "text": "qhklhk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
